@@ -1,0 +1,137 @@
+{
+    "language": "Spanish",
+    "screens": {
+      "addCharge": {
+        "title": "Add Charge",
+        "text": {
+          "title": "Charge Details",
+          "gaugeId": "Email address",
+          "houseID": "password",
+          "waterMeter": "Water Meter Reading",
+          "submit": "Submit"
+        }
+      },
+      "addUser": {
+        "title": "Agregar Usuario",
+        "text": {
+          "meternumber": "Meter Number",
+          "name": "Name",
+          "surname": "Surname",
+          "idNumber": "ID Number",
+          "sector": "Sector",
+          "phoneNumber": "Phone Number",
+          "email": "Email",
+          "status": "Status",
+          "category": "Category",
+          "addUser": "Add User",
+          "cancel": "Cancel"
+        }
+      },
+      "conformation": {
+        "title": "Conformation",
+        "text": {
+          "invoice": "Invoice",
+          "userDetails": "User Details",
+          "meternumber": "Meter Number",
+          "name": "Name",
+          "surname": "Surname",
+          "idNumber": "ID Number",
+          "sector": "Sector",
+          "phoneNumber": "Phone Number",
+          "email": "Email",
+          "status": "Status",
+          "category": "Category",
+          "confrimChange": "Confirm ",
+          "cancel": "Cancel"
+        }
+      },
+      "dashboard": {
+        "title": "Panel",
+        "text": {
+          "communityName": "Nombre de la comunidad",
+          "paid": "Pagado",
+          "unpaid": "No pagado",
+          "monthlyUsage": "Uso mensual",
+          "yearlyUsage": "Uso anual"
+        }
+      },
+      "home": {
+        "title": "Track water usage {'\n'}with{' '}",
+        "text": {
+          "locationID": "Location ID",
+          "appName": "LGWI Liquid Metircs",
+          "submitButton": "Let's go!"
+        }
+      },
+      "input": {
+        "title": "Aporte",
+        "text": {
+          "title": "Número de Medidor o Cédula",
+          "gaugeId": "Email address",
+          "houseID": "password",
+          "waterMeter": "Lectura del medidor de agua",
+          "submit": "Entregar"
+        }
+      },
+      "receipt": {
+        "title": "Receipt",
+        "text": {
+          "receipt": "Receipt",
+          "submit": "Submit"
+        }
+      },
+      "settings": {
+        "title": "Ajustes",
+        "text": {
+          "english": "Inglés",
+          "spanish": "Español",
+          "prefrences": "Preferencias",
+          "language": "Idioma",
+          "firebaseCSV": "Firebase CSV",
+          "resources": "Recursos",
+          "report": "Reportar un error",
+          "view": "Ver detalles del proyecto",
+          "developers": "Programadores"
+        }
+      },
+      "users": {
+        "title": "Usuarios",
+        "text": {
+          "filter": "Filter",
+          "search": "Search",
+          "addUser": "Agregar usuario",
+          "submit": "Submit"
+        }
+      },
+      "userView": {
+        "title": "User Details",
+        "text": {
+          "meternumber": "Meter Number",
+          "name": "Name",
+          "surname": "Surname",
+          "idNumber": "ID Number",
+          "sector": "Sector",
+          "phoneNumber": "Phone Number",
+          "email": "Email",
+          "status": "Status",
+          "category": "Category",
+          "receipt": "Receipts",
+          "recieptID": "Receipt ID",
+          "date": "Date",
+          "amount": "Amount",
+          "submit": "Submit",
+          "edit": "Edit User",
+          "cancel": "Cancel"
+        }
+      },
+      "footer": {
+        "text": {
+          "dashboard": "Panel",
+          "input": "Aporte",
+          "users": "Usuarios",
+          "settings": "Ajustes"
+        }
+      }
+    }
+  }
+  
