@@ -1,10 +1,11 @@
 # LGWI Liquid Metrics
 This is the senior design project of Ben Tanis and Jacob Westra, both class of '24 graduates of Calvin University.
 
-This was comissioned Life Giving Water International (LGWI), to monitor well water for LGWI's water systems in Ecuador. You can read more [here](https://jacobwestra.com/LGWI/).
+This was comissioned Life Giving Water International (LGWI), to monitor water usage for LGWI's water systems in Ecuador. You can read more [here](https://jacobwestra.com/LGWI/).
 
 ## Picking up development
 If you're reading this, chances are you're the '25 students who picked this project (or were assigned it by Kvlinden). Here are some notes!
+* You're in an old repository. Everything has been migrated to [here](https://github.com/LifeGivingWaterInternational/LiquidMetrics)!
 * Everything contained in `/old` is (mostly) outdated, and only exists for archival purposes. This includes our React Native client – which I (Jacob) am officially retiring. Here are some reasons why:
   - It's dependency hell. Getting a development environment set up is an absolute nightmare, requiring you to install old/outdated versions of packages just to get the app to run
   - There were a lot of iOS- or Android-specific bugs
@@ -26,7 +27,7 @@ This is what you'll be working on this year
 * Querying/filtering through reciepts
 * Spanish translation
 
-Additionally, don't forget the [CS-396/8 requirements](https://cs.calvin.edu/courses/cs/396/kvlinden/)!
+Additionally, don't forget about the [CS-396/8 requirements](https://cs.calvin.edu/courses/cs/396/kvlinden/)!
 ## Project materials
 All of our CS-396/8 class materials – including our project proposal, presentations, todo lists, etc can be found [here](https://drive.google.com/drive/folders/1nDc61zaPWj0OzmBFdk4gacMAmKYI4X28?usp=sharing).
 
