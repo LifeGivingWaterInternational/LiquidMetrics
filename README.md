@@ -15,7 +15,6 @@ Once installation is done, run `expo start`. This will present you with a QR cod
 If you're reading this, chances are you're the '25 or '26 students who picked this project (or were assigned it by Kvlinden, or whoever is proctoring the final project course). Here are some notes!
 
 ## Todo
-This is what you'll be working on this year
 * Image-to-text processing
 * Multi-community support
 * Receipt creation/printing
